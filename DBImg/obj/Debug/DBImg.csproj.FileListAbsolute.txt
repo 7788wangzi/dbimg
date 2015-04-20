@@ -1,0 +1,5 @@
+c:\users\v-qixue\documents\visual studio 2012\Projects\DBImg\DBImg\bin\Debug\DBImg.dll
+c:\users\v-qixue\documents\visual studio 2012\Projects\DBImg\DBImg\bin\Debug\DBImg.pdb
+c:\users\v-qixue\documents\visual studio 2012\Projects\DBImg\DBImg\obj\Debug\DBImg.dll
+c:\users\v-qixue\documents\visual studio 2012\Projects\DBImg\DBImg\obj\Debug\DBImg.pdb
+c:\users\v-qixue\documents\visual studio 2012\Projects\DBImg\DBImg\obj\Debug\DBImg.csprojResolveAssemblyReference.cache

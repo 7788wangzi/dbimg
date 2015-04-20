@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBImg", "DBImg\DBImg.csproj", "{28824302-BC7B-42F0-83A1-7E05777B4316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{ED38788A-9CBB-4084-BE27-BD3B673142C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28824302-BC7B-42F0-83A1-7E05777B4316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28824302-BC7B-42F0-83A1-7E05777B4316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28824302-BC7B-42F0-83A1-7E05777B4316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28824302-BC7B-42F0-83A1-7E05777B4316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED38788A-9CBB-4084-BE27-BD3B673142C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED38788A-9CBB-4084-BE27-BD3B673142C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED38788A-9CBB-4084-BE27-BD3B673142C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED38788A-9CBB-4084-BE27-BD3B673142C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
